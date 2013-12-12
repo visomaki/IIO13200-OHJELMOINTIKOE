@@ -7,4 +7,6 @@
 
     <asp:GridView ID="gridOpiskelijat" runat="server"></asp:GridView>
 
+    <p><asp:Label ID="labelInfo" runat="server" ></asp:Label></p>
+
 </asp:Content>

@@ -11,6 +11,7 @@
 <body>
 
     <h1>PuolipilkunViilaajat</h1>
+        <div> <img src="images/koodari.gif" />  </div>
 
     <form id="form1" runat="server">
 
