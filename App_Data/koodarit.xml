@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<koodarit>
+  <koodari>
+    <nimi>Linus</nimi>
+    <salasana>7c4a8d09ca3762af61e59520943dc26494f8941b</salasana>
+  </koodari>
+
+  <koodari>
+    <nimi>Richard</nimi>
+    <salasana>7c4a8d09ca3762af61e59520943dc26494f8941b</salasana>
+  </koodari>
+
+  <koodari>
+    <nimi>Monty</nimi>
+    <salasana>7c4a8d09ca3762af61e59520943dc26494f8941b</salasana>
+  </koodari>
+
+  <koodari>
+    <nimi>Bjarne</nimi>
+    <salasana>7c4a8d09ca3762af61e59520943dc26494f8941b</salasana>
+  </koodari>  
+</koodarit>

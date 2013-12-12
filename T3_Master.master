@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="T3_Master.master.cs" Inherits="T3_Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <h1>PuolipilkunViilaajat</h1>
+
+    <form id="form1" runat="server">
+
+    
+    <div>
+        <asp:HyperLink ID="HyperLink1" NavigateUrl="~/tuntikirjanpito/Default.aspx" runat="server">Etusivu</asp:HyperLink> -
+        <asp:HyperLink ID="HyperLink2" NavigateUrl="~/tuntikirjanpito/kirjaus.aspx" runat="server">Uusi kirjaus</asp:HyperLink> -
+        <asp:HyperLink ID="HyperLink4" NavigateUrl="~/tuntikirjanpito/selaa.aspx" runat="server">Selaa kirjauksia</asp:HyperLink> -
+        <asp:HyperLink ID="HyperLink3" NavigateUrl="~/tuntikirjanpito/logout.aspx" runat="server">Log out</asp:HyperLink>
+    </div>
+
+    <div>
+        <asp:ContentPlaceHolder id="content" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1 @@
+﻿Kaikille koodareille salasana on: 123456

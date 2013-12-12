@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kirjaukset>
+  <kirjaus>
+    <nimi>Linus</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>5</tunnit>
+    <minuutit>23</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <nimi>Linus</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>1</tunnit>
+    <minuutit>45</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <nimi>Linus</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>12</tunnit>
+    <minuutit>53</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <nimi>Linus</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>12</tunnit>
+    <minuutit>53</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <nimi>Bjarne</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>12</tunnit>
+    <minuutit>54</minuutit>
+  </kirjaus>
+  <kirjaus>
+    <nimi>Richard</nimi>
+    <pvm>12.12.2013</pvm>
+    <tunnit>52</tunnit>
+    <minuutit>47</minuutit>
+  </kirjaus>
+</kirjaukset>
